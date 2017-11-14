@@ -1,0 +1,26 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "just a todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/node-js-playlist.git"
+  },
+  "author": "Sagar Nasit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/node-js-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/node-js-playlist#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "mongoose": "^4.11.14",
+    "nodemon": "^1.12.1"
+  }
+}
